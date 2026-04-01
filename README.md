@@ -101,7 +101,9 @@ Me enfoco en crear aplicaciones funcionales, escalables y bien estructuradas.
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 </p>
-
+<p align="center">
+  📧 Email &nbsp;&nbsp;&nbsp; 💼 LinkedIn
+</p>
 ---
 
 <div align="center">
