@@ -23,11 +23,11 @@ Actualmente trabajando en:
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,html,css,scss,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,html,css,scss,bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,django,nodejs,ionic,dotnet" />
+  <img src="https://skillicons.dev/icons?i=angular,react,django,nodejs,ionic" />
 </p>
 
 <p align="center">
@@ -53,16 +53,14 @@ Actualmente trabajando en:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leolopezOsornio&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leolopezOsornio&theme=tokyonight" />
 </p>
 
 ---
-
-## 🐍 Actividad
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg"/>
@@ -73,14 +71,7 @@ Actualmente trabajando en:
 ## 📫 Contacto
 
 <p align="center">
-  📧 tucorreo@gmail.com  
-  💼 LinkedIn (ponlo si tienes)  
+  📧 leol83377@gmail.com  
+  💼 LinkedIn (https://www.linkedin.com/in/leonardo-l%C3%B3pez-osornio-84b469354/)
 </p>
 
----
-
-## ⚡ Frase
-
-<p align="center">
-"No hago proyectos de relleno, hago cosas que sí se usan." 🚀
-</p>
